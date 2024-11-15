@@ -1,0 +1,5 @@
+com\mycompany\creadorpalabras\Logic\WordFactory.class
+com\mycompany\creadorpalabras\CreadorPalabras.class
+com\mycompany\creadorpalabras\Logic\Word.class
+com\mycompany\creadorpalabras\Logic\Interface\NuevaPalabra.class
+com\mycompany\creadorpalabras\Logic\GeneradorPalabras.class
